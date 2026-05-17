@@ -3,29 +3,38 @@
   "entries": [
     {
       "game": "Luigi's Mansion",
-      "file": "jingles/gc/LM Mansion (Dark Hallway).mp3",
+      "file": "jingles/gc/LMMansion(Dark Hallway).mp3",
       "regex": "luigi mansion"
     },
     {
       "game": "Pac-Man World 2",
-      "file": "jingles/gc/Pac Village Pond.mp3"
+      "file": "jingles/gc/PacVillagePond.mp3"
     },
     {
       "game": "Super Monkey Ball 2",
-      "file": "jingles/gc/SMB2 Title.mp3",
+      "file": "jingles/gc/SMB2_Title.mp3",
       "regex": "super monkey ball 2"
     },
     {
       "game": "Animal Crossing",
-      "file": "jingles/gc/AC Train Ride.mp3"
+      "file": "jingles/gc/ACTrainRide.mp3"
     },
     {
       "game": "Super Mario 64",
-      "file": "jingles/n64/SM64 Main Theme.ogg"
+      "file": "jingles/n64/SM64MainTheme.ogg"
     },
     {
       "game": "EarthBound",
-      "file": "jingles/snes/Earthbound - Choose a File.ogg"
+      "file": "jingles/snes/Earthbound_Choose_a_File.mp3"
+    },
+    {
+      "game": "Lemmings",
+      "file": "jingles/snes/Lemmings(Stage1Genesis).mp3"
+    },
+    {
+      "game": "VLDC 9",
+      "file": "jingles/snes/VLDC9Abstract.mp3",
+      "regex": "vldc"
     },
     {
       "game": "Petscop",
@@ -34,7 +43,7 @@
     },
     {
       "game": "Sonic CD",
-      "file": "jingles/segacd/YCDA Inst.ogg"
+      "file": "jingles/segacd/YCDAInst.ogg"
     }
   ]
 }
