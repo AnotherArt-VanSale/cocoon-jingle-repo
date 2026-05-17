@@ -30,7 +30,7 @@
     {
       "game": "Petscop",
       "file": "jingles/psx/gift-plane.ogg",
-      "regex": "petscop"
+      "regex": "giftscop"
     },
     {
       "game": "Sonic CD",
