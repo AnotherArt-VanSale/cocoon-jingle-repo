@@ -29,7 +29,8 @@
     },
     {
       "game": "Petscop",
-      "file": "jingles/psx/gift-plane.ogg"
+      "file": "jingles/psx/gift-plane.ogg",
+      "regex": "petscop"
     },
     {
       "game": "Sonic CD",
