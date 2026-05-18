@@ -44,6 +44,10 @@
     {
       "game": "Sonic CD",
       "file": "jingles/segacd/YCDAInst.ogg"
+    },
+    {
+      "game": "Super Mario 3D Land",
+      "file": "jingles/n3ds/SM3DLand(HOME_Menu).mp3"
     }
   ]
 }
