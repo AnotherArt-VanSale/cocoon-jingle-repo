@@ -48,6 +48,14 @@
     {
       "game": "Super Mario 3D Land",
       "file": "jingles/n3ds/SM3DLand(HOME_Menu).mp3"
+    },
+    {
+      "game": "Mario Kart DS",
+      "file": "jingles/nds/HereWeGo.mp3"
+    }
+    {
+      "game": "Super Mario 64 DS",
+      "file": "jingles/nds/Playroom.mp3"
     }
   ]
 }
